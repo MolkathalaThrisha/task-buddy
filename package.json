@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<your-github-username>.github.io/task-buddy",
+  "homepage": "https://thrishareddy.github.io/task-buddy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
